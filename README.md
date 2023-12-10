@@ -1,5 +1,3 @@
-# resume
-My resume
 
 %-------------------------
 % Resume in Latex
